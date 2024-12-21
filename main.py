@@ -15,9 +15,9 @@ def create_dashboard():
     root.title("Random Number Dashboard")
 
     ranges_and_times = [
-        (10,20, 10, "lightcoral"),
-        (-10, 10, 20, "lightblue"),
-        (-100, 0, 8, "lightgreen"),
+        (10,20, 10, "red"),
+        (-10, 10, 20, "blue"),
+        (-100, 0, 8, "green"),
         (0, 20, 12, "yellow"),
         (-40, 40, 16, "lightsteelblue"),
         (100, 200, 14, "lightgray")

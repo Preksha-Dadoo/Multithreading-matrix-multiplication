@@ -14,12 +14,12 @@ Multithreading is a programming concept that allows concurrent execution of mult
 
 2.Refresh intervals:
 
-10 seconds
-20 seconds
-8 seconds
-12 seconds
-16 seconds
-14 seconds
+10 seconds <br />
+20 seconds <br />
+8 seconds <br />
+12 seconds <br />
+16 seconds <br />
+14 seconds <br />
 
 ## OUTPUT
 ![Screenshot (196)](https://github.com/user-attachments/assets/fcfd252c-44b9-4167-bef1-70e4704b8cec)
